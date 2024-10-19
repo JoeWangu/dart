@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462344527849",
+    "firebase_url": "https://mynotes-bf501-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mynotes-bf501",
+    "storage_bucket": "mynotes-bf501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462344527849:android:620877191b27f236fc3578",
+        "android_client_info": {
+          "package_name": "com.personaljw.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYN7ZBAt6hJr-ohv6b2JKoaxoJugvoC4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
